@@ -12,7 +12,7 @@
     const request = document.createElement( 'input' );
 
     form.method = 'post';
-    form.action = '/janken/Jadge';
+    form.action = '/janken-jsp/Jadge';
 
     request.type = 'hidden';
     request.name = 'userHand';
