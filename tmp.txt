@@ -1,0 +1,19 @@
+<!-- <c:set var="gu" value="gu"
+     var="choki" value="choki"
+     var="pa" value="pa"
+     var="user" value="user"
+     var="com" value="com"
+     var="draw" value="draw"></c:set> -->
+
+
+
+<c:set var="gu" value="gu"></c:set>
+<c:set var="choki" value="choki"></c:set>
+<c:set var="pa" value="pa"></c:set>
+<c:set var="user" value="user"></c:set>
+<c:set var="com" value="com"></c:set>
+<c:set var="draw" value="draw"></c:set>
+
+修正時刻: Tue Aug 18 06:26:14 2020
+
+修正時刻: Tue Aug 18 06:28:39 2020

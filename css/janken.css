@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+y
+img { max-width: 100%; }
+.pic {
+  width: 100px;
+  float: left;
+}
+
+.kekka {
+    float: left;
+}
+
+.kekka-word {
+    clear: both;
+}
+
+/* 修正時刻: Mon Aug 17 11:29:00 2020 */
